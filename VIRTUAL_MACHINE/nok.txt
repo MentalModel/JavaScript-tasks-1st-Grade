@@ -1,0 +1,14 @@
+cin 100
+cin 99
+mul 100 99 113
+set_const 110 0
+cmpjmp 100 99 19
+swap 100 99 101
+set 106 99
+mod 100 99 99
+set 100 106
+cmpjmp 99 110 19
+div 113 100 113
+cout 113
+end
+

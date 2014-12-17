@@ -1,0 +1,8 @@
+cin 100
+set 99 100
+set_const 88 1
+dec 99
+mul 100 99 100
+cmpjmp 99 88 8
+cout 100
+end
